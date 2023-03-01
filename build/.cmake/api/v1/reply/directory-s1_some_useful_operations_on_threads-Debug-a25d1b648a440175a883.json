@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s1_some_useful_operations_on_threads",
+		"source" : "s1_some_useful_operations_on_threads"
+	}
+}

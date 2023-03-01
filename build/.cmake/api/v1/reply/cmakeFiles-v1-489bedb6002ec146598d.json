@@ -1,0 +1,1125 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeNinjaFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.2/share/cmake/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"path" : "CMake/Utils.cmake"
+		},
+		{
+			"path" : "barrier/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "common/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "coroutines/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "debug_test/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "find/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "for_each/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "HashTableX/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "interruptible_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "latch/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "lock_free_stack/CMakeLists.txt"
+		},
+		{
+			"path" : "lockfree_linkedlist/CMakeLists.txt"
+		},
+		{
+			"path" : "matrix/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "parallel_stl_intro/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "prime_number_generator/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_how_to_handle_join_in_exception_scenarios/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_how_to_launch_a_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_how_to_pass_parameters_to_a_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_join_and_detach_functions/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_joinability_of_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_parallel_accumulate/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_problamatic_situation_arise_when_passing_parameters_to_a_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_some_useful_operations_on_threads/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s1_transferring_ownership_of_a_thread/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_dead_locks/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_mutex/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_things_to_remember_when_using_mutex/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_thread_safe_stack_implementation/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_thread_safe_stack_implementation_race_conditions/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s2_unique_locks/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_async_task_detail_discussion/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_communication_between_threads_using_promises/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_details_about_condition_variables/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_introduction_to_condition_variables/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_introduction_to_futures_and_async_tasks/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_introduction_to_package_tasks/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_parallel_accumulate_algorithm/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_retrieving_exception_using_futures/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_shared_futures/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s3_thread_safe_queue_implementation/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s4_thread_safe_queue/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s8_simple_threadpool/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s8_simple_threadpool_waiting/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s8_simple_threadpool_waiting_for_others/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s8_simple_threadpool_with_local_work_queue/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "s8_simple_threadpool_with_work_stealing/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "scan/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "sort/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "thread_local_demo/CMakeLists.txt"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		},
+		{
+			"path" : "CMake/DefaultCXX.cmake"
+		},
+		{
+			"path" : "CMake/Default.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/pavel/Documents/cpp_repos_macos/cpp_concurrency_masterclass/build",
+		"source" : "/Users/pavel/Documents/cpp_repos_macos/cpp_concurrency_masterclass"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

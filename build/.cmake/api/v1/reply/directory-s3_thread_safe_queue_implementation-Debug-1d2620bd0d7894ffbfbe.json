@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s3_thread_safe_queue_implementation",
+		"source" : "s3_thread_safe_queue_implementation"
+	}
+}

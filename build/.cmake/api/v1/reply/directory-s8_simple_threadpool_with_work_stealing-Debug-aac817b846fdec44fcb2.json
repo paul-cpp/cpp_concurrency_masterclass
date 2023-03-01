@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s8_simple_threadpool_with_work_stealing",
+		"source" : "s8_simple_threadpool_with_work_stealing"
+	}
+}

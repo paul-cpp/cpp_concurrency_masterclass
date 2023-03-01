@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s1_transferring_ownership_of_a_thread",
+		"source" : "s1_transferring_ownership_of_a_thread"
+	}
+}

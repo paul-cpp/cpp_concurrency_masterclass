@@ -1,0 +1,137 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "/Users/pavel/Documents/cpp_repos_macos/cpp_concurrency_masterclass/x64/Debug/s7_lock_free_hashtable"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"HashTableX/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_CONSOLE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_DEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_UNICODE"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2
+			]
+		}
+	],
+	"id" : "s7_lock_free_hashtable::@50a7f2eae0821805eb7e",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "s7_lock_free_hashtable",
+	"nameOnDisk" : "s7_lock_free_hashtable",
+	"paths" : 
+	{
+		"build" : "HashTableX",
+		"source" : "HashTableX"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "HashTableX/hash_table_x.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "HashTableX/hash_table_x.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "HashTableX/main.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

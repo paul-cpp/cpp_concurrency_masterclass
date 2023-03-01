@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s2_things_to_remember_when_using_mutex",
+		"source" : "s2_things_to_remember_when_using_mutex"
+	}
+}

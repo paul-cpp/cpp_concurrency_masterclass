@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s2_thread_safe_stack_implementation",
+		"source" : "s2_thread_safe_stack_implementation"
+	}
+}

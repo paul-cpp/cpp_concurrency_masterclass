@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s3_communication_between_threads_using_promises",
+		"source" : "s3_communication_between_threads_using_promises"
+	}
+}

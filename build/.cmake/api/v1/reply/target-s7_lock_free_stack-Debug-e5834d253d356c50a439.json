@@ -1,0 +1,35 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"lock_free_stack/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "s7_lock_free_stack::@8dac198e4e57edd634a4",
+	"name" : "s7_lock_free_stack",
+	"paths" : 
+	{
+		"build" : "lock_free_stack",
+		"source" : "lock_free_stack"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

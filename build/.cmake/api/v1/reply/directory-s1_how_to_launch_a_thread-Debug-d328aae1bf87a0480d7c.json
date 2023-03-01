@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s1_how_to_launch_a_thread",
+		"source" : "s1_how_to_launch_a_thread"
+	}
+}

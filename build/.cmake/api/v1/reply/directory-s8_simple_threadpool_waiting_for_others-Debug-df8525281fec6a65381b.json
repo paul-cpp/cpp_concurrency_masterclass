@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "s8_simple_threadpool_waiting_for_others",
+		"source" : "s8_simple_threadpool_waiting_for_others"
+	}
+}

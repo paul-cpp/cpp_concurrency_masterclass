@@ -1,0 +1,117 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "/Users/pavel/Documents/cpp_repos_macos/cpp_concurrency_masterclass/x64/Debug/prime_number_generator"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"prime_number_generator/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_CONSOLE"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_DEBUG"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "_UNICODE"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "prime_number_generator::@827b4df05eb0fa81a24b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "prime_number_generator",
+	"nameOnDisk" : "prime_number_generator",
+	"paths" : 
+	{
+		"build" : "prime_number_generator",
+		"source" : "prime_number_generator"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "prime_number_generator/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
